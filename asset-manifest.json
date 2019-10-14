@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dance-video/static/css/main.75e2e6ee.chunk.css",
+    "main.js": "/dance-video/static/js/main.ce798c01.chunk.js",
+    "main.js.map": "/dance-video/static/js/main.ce798c01.chunk.js.map",
+    "runtime-main.js": "/dance-video/static/js/runtime-main.6fc58fa9.js",
+    "runtime-main.js.map": "/dance-video/static/js/runtime-main.6fc58fa9.js.map",
+    "static/js/2.19f926e7.chunk.js": "/dance-video/static/js/2.19f926e7.chunk.js",
+    "static/js/2.19f926e7.chunk.js.map": "/dance-video/static/js/2.19f926e7.chunk.js.map",
+    "index.html": "/dance-video/index.html",
+    "precache-manifest.7afeb43a4c9e83bd659c6a786c9257d6.js": "/dance-video/precache-manifest.7afeb43a4c9e83bd659c6a786c9257d6.js",
+    "service-worker.js": "/dance-video/service-worker.js",
+    "static/css/main.75e2e6ee.chunk.css.map": "/dance-video/static/css/main.75e2e6ee.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fc58fa9.js",
+    "static/js/2.19f926e7.chunk.js",
+    "static/css/main.75e2e6ee.chunk.css",
+    "static/js/main.ce798c01.chunk.js"
+  ]
+}
